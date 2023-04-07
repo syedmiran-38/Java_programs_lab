@@ -1,4 +1,4 @@
-// Java program to find factorial of a number
+// Q11) Java program to find factorial of a number
 
 public class factorial {
     public static void main(String[] args) {

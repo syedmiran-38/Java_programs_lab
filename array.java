@@ -1,4 +1,4 @@
-// write a java program to initialise an array and find the sum of an array
+// Q12) write a java program to initialise an array and find the sum of an array
 
 public class array {
     public static void main(String[] args) {

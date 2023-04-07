@@ -1,4 +1,4 @@
-// Write a java program to reverse number from 49 to 1
+// Q10) Write a java program to reverse number from 49 to 1
 
 public class reverse {
     public static void main(String[] args) {

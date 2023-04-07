@@ -1,4 +1,4 @@
-// Write a java program to print even numbers from 2 to 100
+// Q9) Write a java program to print even numbers from 2 to 100
 
 public class even {
     public static void main(String[] args) {
